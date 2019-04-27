@@ -1,3 +1,9 @@
+//This is a great MQL4 template I found to mark support/resistance levels on charts
+
+
+
+
+
 ///////////////////////////////////////////////////////
 // George Egroeg (C) 2006 e-m: egro1egro at yahoo dot com
 // aka "egro1egro"
